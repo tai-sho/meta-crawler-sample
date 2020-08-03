@@ -1,0 +1,12 @@
+{
+    "name": "tai-sho/meta-crawler-sample",
+    "authors": [
+        {
+            "name": "ShoheiTai",
+            "email": "s_tai@spice-factory.co.jp"
+        }
+    ],
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
